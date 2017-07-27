@@ -1,2 +1,4 @@
 sysfoo:
   image: balaji8228/sysfoo:staging
+  ports:
+    - 8088
